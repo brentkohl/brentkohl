@@ -3,4 +3,6 @@
 <br>
 * University of Massachusetts Amherst, B.S. of Computer Science
 
+[![codewars](https://www.codewars.com/users/brentkohl/badges/large)](https://www.codewars.com/users/brentkohl)
+
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
